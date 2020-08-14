@@ -6,7 +6,7 @@ We are very happy to inform you that after careful review of your application, y
 
  - Start date: August 25, 2020 
  - Course code: CSCI 200
- - Schedule: Tue and Thu 2:10 - 3:30 PM EST 
+ - Schedule: Tue and Thu 2:10 - 3:30 PM EST *(classes are conducted twice a week)* 
  - Classroom: LKD - Room 2117A
 
 We can't wait to see what you will achieve as part of the CodePath.org community. If you have any questions or concerns, feel free to reach out to us anytime through contactus@codepath.org. 
